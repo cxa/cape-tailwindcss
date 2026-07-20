@@ -1,5 +1,15 @@
 # cape-tailwindcss
 
+> [!IMPORTANT]
+> This repository is archived and no longer maintained. For the Eglot and
+> Tailwind multi-server setup previously documented here,
+> [Eglotx](https://github.com/cxa/eglotx) is the maintained path: enable its
+> preset catalog and keep Eglot's ordinary completion-at-point integration.
+> Eglotx incorporates the performance lessons from this experiment, but it is
+> not a drop-in replacement for `cape-tailwindcss-capf` and does not replace
+> this package's lsp-mode integration. Users who need the standalone CAPF can
+> continue using the final archived revision.
+
 Capfs for Tailwind CSS
 
 ## Motivation
